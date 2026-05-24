@@ -74,7 +74,7 @@
     <img src="https://img.icons8.com/office40/512/express-js.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/2560px-NestJS-logo-wordmark.svg.png" alt="nestjs" width="90" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/120px-NestJS.svg.png" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -94,6 +94,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/120px-MySQL.svg.png" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
